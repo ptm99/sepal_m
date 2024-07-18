@@ -1,4 +1,4 @@
-FROM openforis/sandbox-base
+FROM openforis/sandbox-base:latest
 
 ENV MODULE_NAME geospatial-toolkit
 ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
